@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958962146227",
+    "project_id": "rvc934",
+    "storage_bucket": "rvc934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958962146227:android:a2bd2b8d4c74ae4faf09c6",
+        "android_client_info": {
+          "package_name": "com.example.rvc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958962146227-7ft3nh7m4ijortknvav5n4llikrhg8ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmcFytuxnxlx8Cw-n6VvC5_IFil4LfsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958962146227-7ft3nh7m4ijortknvav5n4llikrhg8ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
